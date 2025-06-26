@@ -1,4 +1,4 @@
-﻿# 🛒 EthicalCart – Exposing E-Commerce Dark Patterns in Real Time
+﻿# 🛒 EthicalCart – Enhancing customer experience by detecting fake reviews and misguiding practices used by ecommerce brands.
 EthicalCart is a Chrome extension that empowers users to shop smarter and safer by detecting deceptive design patterns used by online retailers. Using cutting-edge Machine Learning (ML) and UI analysis, it flags misleading practices like hidden fees, fake urgency, sneaky upsells, and AI-generated reviews—promoting transparency and ethical e-commerce.
 
 🚀 Features
